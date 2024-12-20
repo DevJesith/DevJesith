@@ -1,10 +1,9 @@
 # ¡Hola! Soy **DevJesith** 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil)
 
 ## Sobre mí
 
-🎓 **Desarrollador apasionado** por la tecnología y el aprendizaje continuo. Me especializo en el desarrollo de aplicaciones web y siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y contribuir a proyectos interesantes.
+🎓 **Desarrollador apasionado** por la tecnología y el aprendizaje continuo. Me especializo en el desarrollo de aplicaciones web y siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y contribuir a proyectos interesantes. Ademas actualemnte estoy aprendiendo el desarrollo movil para poder abrirme a mas campos.
 
 ## 🌟 Objetivos
 
@@ -20,17 +19,11 @@
 - **Herramientas**: ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Jenkins](https://img.shields.io/badge/-Jenkins-red)
 - **Bases de datos**: ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
-## 🚀 Proyectos Destacados
-
-- [![Proyecto 1](https://img.shields.io/badge/-Nombre_del_Proyecto_1-blue)](enlace-al-proyecto) Breve descripción del proyecto.
-- [![Proyecto 2](https://img.shields.io/badge/-Nombre_del_Proyecto_2-blue)](enlace-al-proyecto) Breve descripción del proyecto.
-- [![Proyecto 3](https://img.shields.io/badge/-Nombre_del_Proyecto_3-blue)](enlace-al-proyecto) Breve descripción del proyecto.
 
 ## 📫 Contacto
 
 - **Correo electrónico**: [tu-email@example.com](mailto:tu-email@example.com)
 - **LinkedIn**: [Tu Perfil de LinkedIn](enlace-a-linkedin)
-- **Twitter**: [@TuUsuario](enlace-a-twitter)
 
 ---
 
