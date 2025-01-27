@@ -1,30 +1,32 @@
-# ¡Hola! Soy **DevJesith** 👋
+# 👋 ¡Hola, soy [Tu Nombre]!
 
+Soy un desarrollador de aplicaciones web y móviles apasionado por la tecnología y el aprendizaje continuo. Actualmente estoy en proceso de crecimiento profesional y explorando nuevas oportunidades en el mundo del desarrollo.
 
-## Sobre mí
+## 🚀 Sobre mí
+- 🎓 Técnico en Desarrollo de Aplicaciones Web y Móviles
+- 💻 Enfocado en mejorar mis habilidades en frontend y backend
+- 📚 Aprendiendo Python y fortaleciendo mis conocimientos en bases de datos
+- 🌍 Interesado en el desarrollo de aplicaciones innovadoras
 
-🎓 **Desarrollador apasionado** por la tecnología y el aprendizaje continuo. Me especializo en el desarrollo de aplicaciones web y siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y contribuir a proyectos interesantes. Ademas actualemnte estoy aprendiendo el desarrollo movil para poder abrirme a mas campos.
+## 🛠️ Tecnologías y herramientas
 
-## 🌟 Objetivos
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Py-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 🚀 Mejorar mis habilidades en desarrollo web y programación.
-- 💻 Contribuir a proyectos de código abierto.
-- 📚 Aprender nuevas tecnologías y herramientas.
-- 🤝 Colaborar con otros desarrolladores y aprender de la comunidad.
+## 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
-## 🛠️ Habilidades
+## 🌎 Conéctate conmigo
 
-- **Lenguajes de programación**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) ![Java](https://img.shields.io/badge/-Java-orange)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-blue) ![Angular](https://img.shields.io/badge/-Angular-red) ![Django](https://img.shields.io/badge/-Django-green)
-- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Jenkins](https://img.shields.io/badge/-Jenkins-red)
-- **Bases de datos**: ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-
-
-## 📫 Contacto
-
-- **Correo electrónico**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [Tu Perfil de LinkedIn](enlace-a-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
 
 ---
+📌 *Siempre aprendiendo y explorando nuevas tecnologías.* 🚀
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
