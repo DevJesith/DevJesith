@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Jesith Mejia</h1>
-<h3 align="center">Soy un apasionado del desarrollo de aplicaciones web y móviles, con una sólida formación técnica y un gran interés por la innovación. tecnológico. Me encanta enfrentar nuevos retos, aprender constantemente y mejorar mis habilidades en programación. Mi objetivo es contribuir con soluciones eficientes y creativas, mientras sigo creciendo profesionalmente en el mundo del desarrollo de software.</h3>
+<p align="center">Soy un apasionado del desarrollo de aplicaciones web y móviles, con una sólida formación técnica y un gran interés por la innovación. tecnológico. Me encanta enfrentar nuevos retos, aprender constantemente y mejorar mis habilidades en programación. Mi objetivo es contribuir con soluciones eficientes y creativas, mientras sigo creciendo profesionalmente en el mundo del desarrollo de software.</p>
 
 - 📍 **Técnico en Desarrollo de Aplicaciones Web y Móviles**
 
