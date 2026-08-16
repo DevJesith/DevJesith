@@ -1,20 +1,91 @@
-<h1 align="center">Hi 👋, I'm Jesith</h1>
-<h3 align="center">Soy un apasionado del desarrollo de aplicaciones web móviles de Colombia, con una sólida formación técnica y un gran interés por la innovación. tecnológico. Me encanta enfrentar nuevos retos, aprender constantemente y mejorar mis habilidades en programación. Mi objetivo es contribuir con soluciones eficientes y creativas, mientras sigo creciendo profesionalmente en el mundo del desarrollo de software.</h3>
+<h1 align="center">¡Hola! Soy Jesith Mejia 👋</h1>
+<h3 align="center">Desarrollador Backend en formación | Java & Spring Boot | Ex-QA | Mobile Dev (Flutter)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjesith&label=Profile%20views&color=0e75b6&style=flat" alt="devjesith" /> </p>
-
-- 📫 Correo **jesithmanuel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jesith-mejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jesith-mejia" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Backend+Developer+en+formaci%C3%B3n;Java+%2B+Spring+Boot+%2B+PostgreSQL;Ex-QA+Analyst;Aprendiendo+cada+d%C3%ADa+un+poco+m%C3%A1s" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjesith&show_icons=true&locale=en&layout=compact" alt="devjesith" /></p>
+### 👨‍💻 Sobre mí
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjesith&show_icons=true&locale=en" alt="devjesith" /></p>
+- 🔭 Actualmente construyendo proyectos backend con **Java + Spring Boot + PostgreSQL**
+- 🌱 Estudiando Ingeniería de Software
+- 🧪 Experiencia previa como **practicante de QA** (diseño y ejecución de casos de prueba)
+- 📱 También desarrollo apps móviles con **Flutter** (Clean Architecture + MVVM)
+- 📍 Bogotá, Colombia
+- ⚡ Me apasiona aprender tecnología nueva y aplicar buenas prácticas de desarrollo
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjesith&" alt="devjesith" /></p>
+---
+
+### 🛠️ Stack tecnológico
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+**Herramientas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 📌 Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO/gestor-tareas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=gestor-tareas&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📫 Contáctame
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jesithmanuel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💡 En búsqueda activa de oportunidades como Desarrollador Backend Junior / Java Developer</i>
+</p>
