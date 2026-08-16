@@ -1,91 +1,71 @@
-<h1 align="center">¡Hola! Soy Jesith Mejia 👋</h1>
-<h3 align="center">Desarrollador Backend en formación | Java & Spring Boot | Ex-QA | Mobile Dev (Flutter)</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Backend+Developer+en+formaci%C3%B3n;Java+%2B+Spring+Boot+%2B+PostgreSQL;Ex-QA+Analyst;Aprendiendo+cada+d%C3%ADa+un+poco+m%C3%A1s" alt="Typing SVG" />
-</p>
+# ¡Hola! Soy Jesith Mejia 👋
 
----
+### Desarrollador Backend en formación | Java & Spring Boot | Ex-QA | Mobile Dev
 
-### 👨‍💻 Sobre mí
+</div>
 
-- 🔭 Actualmente construyendo proyectos backend con **Java + Spring Boot + PostgreSQL**
+<br>
+
+Soy un apasionado del desarrollo de aplicaciones web y móviles, con una sólida formación técnica y un gran interés por la innovación tecnológica. Me encanta enfrentar nuevos retos, aprender constantemente y mejorar mis habilidades en programación. Mi objetivo es contribuir con soluciones eficientes y creativas, mientras sigo creciendo profesionalmente en el mundo del desarrollo de software.
+<br>
+## 👨‍💻 Sobre mí
+
+- 🔭 Construyendo proyectos backend con **Java + Spring Boot + PostgreSQL**
 - 🌱 Estudiando Ingeniería de Software
-- 🧪 Experiencia previa como **practicante de QA** (diseño y ejecución de casos de prueba)
-- 📱 También desarrollo apps móviles con **Flutter** (Clean Architecture + MVVM)
+- 🧪 Experiencia previa como **practicante de QA** — diseño y ejecución de casos de prueba
+- 📱 Desarrollo de apps móviles con **Flutter**, aplicando Clean Architecture + MVVM
 - 📍 Bogotá, Colombia
-- ⚡ Me apasiona aprender tecnología nueva y aplicar buenas prácticas de desarrollo
 
----
+<br>
 
-### 🛠️ Stack tecnológico
+## 🛠️ Stack tecnológico
+
+<div align="center">
 
 **Backend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,maven" />
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
+<br>
+
+**Bases de datos**
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase" />
+
+<br>
 
 **Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
+<br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
+
+<br>
 
 **Herramientas**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-</p>
+</div>
 
----
+<br>
 
-### 📊 Estadísticas de GitHub
+## 📫 Contáctame
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
+**LinkedIn:** [linkedin.com/in/jesith-mejia](https://www.linkedin.com/in/jesith-mejia) &nbsp;|&nbsp; **Correo:** jesithmanuel@gmail.com
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
----
+<br>
 
-### 📌 Proyectos destacados
-
-<p align="center">
-  <a href="https://github.com/TU_USUARIO/gestor-tareas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=gestor-tareas&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📫 Contáctame
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jesithmanuel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>💡 En búsqueda activa de oportunidades como Desarrollador Backend Junior / Java Developer</i>
-</p>
+<div align="center">
+<i>En búsqueda activa de oportunidades como Desarrollador Backend Junior / Java Developer</i>
+</div>
