@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Jesith Mejia 👋
 
-### Desarrollador Backend en formación | Java & Spring Boot | Ex-QA | Mobile Dev
+### Desarrollador Backend en formación | Java & Spring Boot | QA | Mobile Dev
 
 </div>
 
